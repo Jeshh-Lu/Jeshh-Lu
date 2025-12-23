@@ -18,4 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeshh-Lu&layout=compact)
 
-![Jeshh GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeshh-Lu&hide=contribs,prs)
+![Jeshh GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeshh-Lu&show_icons=true&theme=radical)
