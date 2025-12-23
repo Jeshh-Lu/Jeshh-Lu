@@ -5,6 +5,10 @@
 
 ![Banner](Banner.png)
 
+## Descripción
+
+Full-Stack Web Developer en formación | Estudiante de Ingeniería de Software | Creando soluciones digitales con Pyton y Java
+
 ## 📱 Redes
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Due_Ad_8517/) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/n64emqrm4a4rvux0uj6y6cjhp?si=07c7fe6955d8455f) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeshh.xd/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jeshhh.feliz/?viewas=100000686899395) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeshuaolguin/)
