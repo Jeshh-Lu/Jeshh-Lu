@@ -1,8 +1,9 @@
-<h1 align = "center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtybDZ0aWxjbTM4M3c1dDgwaGY5Y2UzZjV2bGV1cXB2bnpyeDB2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lpHQvZu6stHKo/giphy.gif" width="200"/> ✨Bienvendi@ a mi GitHub✨ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtybDZ0aWxjbTM4M3c1dDgwaGY5Y2UzZjV2bGV1cXB2bnpyeDB2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lpHQvZu6stHKo/giphy.gif" width="200"/> </h1>
-
 
 ![Banner](Banner.png)
 
+---
+<h3 align = "center" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtybDZ0aWxjbTM4M3c1dDgwaGY5Y2UzZjV2bGV1cXB2bnpyeDB2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lpHQvZu6stHKo/giphy.gif" width="200"/> <font size="6">✨Bienvendi@ a mi GitHub✨ </font>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtybDZ0aWxjbTM4M3c1dDgwaGY5Y2UzZjV2bGV1cXB2bnpyeDB2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lpHQvZu6stHKo/giphy.gif" width="200"/> </h3>
 
 ## 📱 Redes
 
