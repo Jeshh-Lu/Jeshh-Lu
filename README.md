@@ -19,3 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeshh-Lu&layout=compact&theme=radical)
 
 ![Jeshh GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeshh-Lu&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jeshh-Lu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
