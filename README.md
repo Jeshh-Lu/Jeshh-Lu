@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Jeshh-Lu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+en+formaci%C3%B3n;Estudiante+de+Ingenier%C3%ADa+de+Software;Creando+soluciones+digitales+con+Python+y+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+en+formaci%C3%B3n;Estudiante+de+Ingenier%C3%ADa+de+Software;Creando+soluciones+digitales" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,23 +41,6 @@
   **Frontend Web**<br><br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
-
-<br/>
-
----
-
-### 📈 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeshh-Lu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=3399FF&title_color=3399FF&text_color=C9D1D9" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeshh-Lu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3399FF&text_color=C9D1D9" alt="Top Langs" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeshh-Lu&style=for-the-badge&color=blue&label=VISITAS AL PERFIL" alt="Contador de Visitas" />
 </div>
 
 <br/>
