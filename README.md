@@ -60,10 +60,10 @@ Aquí tienes unas "tarjetas" listas para que agregues las capturas y links de tu
         </a>
         <br>
         <h3>Blog de Rock</h3>
-        <p><em>Breve descripción de tu página web. ¿Qué hace y para quién es?</em></p>
+        <p><em>Un blog donde se habla sobre rock y una que otra banda. 🤘🏻</em></p>
         <code>HTML5</code> <code>CSS3</code> <code>JS</code>
       </td>
-      <td align="center" width="50%">
+      <!--<td align="center" width="50%">
         <a href="LINK_A_TU_REPOSITORIO_O_WEB" target="_blank">
           <img src="https://via.placeholder.com/400x225/0D1117/3399FF?text=Vista+Previa+Proyecto+2" width="100%" alt="Proyecto 2"/>
         </a>
@@ -71,7 +71,7 @@ Aquí tienes unas "tarjetas" listas para que agregues las capturas y links de tu
         <h3>Título de tu Web 2</h3>
         <p><em>Breve descripción de tu página web. ¿Qué hace y para quién es?</em></p>
         <code>Python</code> <code>React</code>
-      </td>
+      </td>-->
     </tr>
   </table>
 </div>
