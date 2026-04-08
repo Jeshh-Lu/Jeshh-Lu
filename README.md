@@ -47,6 +47,39 @@
 
 ---
 
+### 🚀 Mis Proyectos de Páginas Web
+
+Aquí tienes unas "tarjetas" listas para que agregues las capturas y links de tus creaciones. Solo reemplaza los links y textos.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="LINK_A_TU_REPOSITORIO_O_WEB" target="_blank">
+          <img src="https://via.placeholder.com/400x225/0D1117/3399FF?text=Vista+Previa+Proyecto+1" width="100%" alt="Proyecto 1"/>
+        </a>
+        <br>
+        <h3>Título de tu Web 1</h3>
+        <p><em>Breve descripción de tu página web. ¿Qué hace y para quién es?</em></p>
+        <code>HTML5</code> <code>CSS3</code> <code>JS</code>
+      </td>
+      <td align="center" width="50%">
+        <a href="LINK_A_TU_REPOSITORIO_O_WEB" target="_blank">
+          <img src="https://via.placeholder.com/400x225/0D1117/3399FF?text=Vista+Previa+Proyecto+2" width="100%" alt="Proyecto 2"/>
+        </a>
+        <br>
+        <h3>Título de tu Web 2</h3>
+        <p><em>Breve descripción de tu página web. ¿Qué hace y para quién es?</em></p>
+        <code>Python</code> <code>React</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
 ### 📱 Conecta conmigo
 
 <div align="center">
