@@ -49,8 +49,6 @@
 
 ### 🚀 Mis Proyectos de Páginas Web
 
-Aquí tienes unas "tarjetas" listas para que agregues las capturas y links de tus creaciones. Solo reemplaza los links y textos.
-
 <div align="center">
   <table>
     <tr>
