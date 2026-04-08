@@ -56,7 +56,7 @@ Aquí tienes unas "tarjetas" listas para que agregues las capturas y links de tu
     <tr>
       <td align="center" width="50%">
         <a href="https://jeshh-lu.github.io/Blog-de-Rock/" target="_blank">
-          <img src="https://via.placeholder.com/400x225/0D1117/3399FF?text=Vista+Previa+Proyecto+1" width="100%" alt="Proyecto 1"/>
+          <img src="Blog-Rock.png" width="100%" alt="Proyecto 1"/>
         </a>
         <br>
         <h3>Blog de Rock</h3>
