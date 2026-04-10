@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="Banner.png" width="100%" alt="Banner Principal"/>
+  <img src="img/Banner.png" width="100%" alt="Banner Principal"/>
 </div>
 
 <br/>
@@ -31,11 +31,8 @@
 <div align="center">
   
   **Lenguajes de Programación**<br><br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  
   
   <br><br><br>
   **Frontend Web**<br><br>
