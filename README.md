@@ -19,7 +19,7 @@
 <br/>
 
 ### 👨‍💻 Sobre mí
-* 💻 **Full-Stack Web Developer** en formación.
+* 💻 **Frontend Web Developer** en formación.
 * 🎓 Estudiante de **Ingeniería de Software**.
 * 🚀 Constantemente aprendiendo nuevas tecnologías y enfrentando nuevos retos.
 * 🧠 Me encanta crear soluciones digitales y resolver problemas complejos.
