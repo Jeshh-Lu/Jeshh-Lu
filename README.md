@@ -44,37 +44,6 @@
 
 ---
 
-### 🚀 Mis Proyectos de Páginas Web
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://jeshh-lu.github.io/Blog-de-Rock/" target="_blank">
-          <img src="img/Blog-Rock.png" width="100%" alt="Proyecto 1"/>
-        </a>
-        <br>
-        <h3>Blog de Rock</h3>
-        <p><em>Un blog donde se habla sobre rock y una que otra banda. 🤘🏻</em></p>
-        <code>HTML5</code> <code>CSS3</code> <code>JS</code>
-      </td>
-      <<td align="center" width="50%">
-        <a href="https://jeshh-lu.github.io/Menu/" target="_blank">
-          <img src="img/PolloFeliz.png" width="100%" alt="Proyecto 2"/>
-        </a>
-        <br>
-        <h3>Menú de restaurante</h3>
-        <p><em>Es un menú de restaurante del Pollo Feliz.</em></p>
-        <code>HTML5</code> <code>CSS3</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
----
-
 ### 📱 Conecta conmigo
 
 <div align="center">
